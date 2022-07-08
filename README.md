@@ -1,2 +1,0 @@
-# first-titian
-online gym
